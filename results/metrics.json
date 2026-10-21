@@ -1,0 +1,7 @@
+{
+  "model": "standardized nearest centroid",
+  "train_rows": 120,
+  "test_rows": 30,
+  "random_seed": 42,
+  "accuracy": 0.8
+}

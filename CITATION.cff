@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite the original Iris dataset and this project."
+title: "Iris Species: Measurement Patterns and a Reproducible Classification Baseline"
+authors:
+  - family-names: "He"
+    given-names: "Kejia"
+type: software
+references:
+  - type: article
+    title: "The use of multiple measurements in taxonomic problems"
+    authors:
+      - family-names: "Fisher"
+        given-names: "Ronald A."
+    year: 1936
+    journal: "Annals of Eugenics"
+    volume: 7
+    issue: 2
+    start: 179
+    end: 188
